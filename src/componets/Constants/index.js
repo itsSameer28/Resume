@@ -1,0 +1,5 @@
+export const EDUCATION_DESCRIPTION = "Graduate with high honors!!"
+export const ADD_OTHER_EDUCATION ="Add Only Recent Education"
+export const EMPLOYEE_HISTORY_DESCRIPTION = "Seeking to use my superior knowledge!!"
+export const ADD_OTHER_TWO_EMPLOYEE_HISTORY = "Add Two Employee History"
+export const EMPLOYEMENT_PARAGRAPH = "Show Your relevant experience(last 10 years).."
